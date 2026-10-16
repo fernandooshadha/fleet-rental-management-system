@@ -1,0 +1,6 @@
+bin/
+*.class
+sources.txt
+.idea/
+*.iml
+out/
